@@ -1,0 +1,12 @@
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\bin\Debug\netcoreapp3.1\ExcelGen.Domain.deps.json
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\bin\Debug\netcoreapp3.1\ExcelGen.Domain.dll
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\bin\Debug\netcoreapp3.1\ExcelGen.Domain.pdb
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\bin\Debug\netcoreapp3.1\ExcelGen.Repository.dll
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\bin\Debug\netcoreapp3.1\ExcelGen.Repository.pdb
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\obj\Debug\netcoreapp3.1\ExcelGen.Domain.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\obj\Debug\netcoreapp3.1\ExcelGen.Domain.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\obj\Debug\netcoreapp3.1\ExcelGen.Domain.AssemblyInfo.cs
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\obj\Debug\netcoreapp3.1\ExcelGen.Domain.csproj.CopyComplete
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\obj\Debug\netcoreapp3.1\ExcelGen.Domain.dll
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\obj\Debug\netcoreapp3.1\ExcelGen.Domain.pdb
+C:\Users\Dima\source\repos\ExcelGen\ExcelGen.Domain\obj\Debug\netcoreapp3.1\ExcelGen.Domain.csproj.CoreCompileInputs.cache
